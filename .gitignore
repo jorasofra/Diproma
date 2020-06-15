@@ -1,0 +1,14 @@
+packages/
+Diproma/bin/
+Diproma/css/
+Diproma/js/
+Diproma/obj/
+Properties/
+Diproma/prueba.png
+Diproma/Diproma.csproj
+Diproma/Diproma.csproj.user
+Diproma/packages.config
+Diproma/Web.config
+Diproma/Web.Debug.config
+Diproma/Web.Release.config
+.vs/
